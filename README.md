@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RealNicoPlayer
+- 👀 I’m interested in SCP:SL
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on EXILED
+- 📫 How to reach me : real_nicoplayer (@Discord)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a very slow learner
