@@ -1,22 +1,49 @@
-### Hi there 👋, my name's NicoPlayer.
-#### Chaos Theory SCP:SL Plugin Developer
-![Chaos Theory SCP:SL Plugin Developer](https://cdn.discordapp.com/attachments/1058507989134356551/1297760139105009676/CE9A0D22-AFE4-4AE0-AD30-BE37A698B183.jpg?ex=671718d0&is=6715c750&hm=e32d5cb4d9e9a0c5a8ac622c900bf85090ed4823f3578405ee2e6020a3b96b5b&)
+### <div align="center">🚀 I'm NicoPlayer, a nonprofessional full-stack developer, working remotely since 2024 🚀</div>  
+  
 
-**Young Nonprofessional CSharp Developer. Started coding back in January 2024.**
+#### <div align="center">🔭 I’m currently working on **Chaos Theory SCP:SL Plugins**. 🔭</div>  
+  
+
+#### <div align="center">🌱 I’m currently learning **CSharp**. 🌱</div>  
+  
+
+#### <div align="center">💫 I'm **Socially Anxious**. 💫</div>  
+  
+
+<br/>  
 
 
-Skills: **CSharp**
+## <div align="center">🛠️ My Skill Set 🛠️  
 
-- 🔭 I’m currently working on **Chaos Theory SCP:SL Plugins**. 
-- 📫 How to reach me: **real_nicoplayer @Discord**. 
-- 😄 Pronouns: **He/Him**. 
+### <div align="center">Frontend and Backend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="100" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="100" /></a>  
+</div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/realnicoplayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Real_NicoPlayer)  
+<br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realnicoplayer)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=realnicoplayer&show_icons=true&count_private=true)  
+## <div align="center">📞 Connect with me 📞
+<div align="center">
+<a href="https://github.com/RealNicoPlayer" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.gg/ChaosScp" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white  />
+</a>
+<a href="https://www.youtube.com/@Real_NicoPlayer" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=realnicoplayer)  
+<br/>  
 
+
+## <div align="center">📈 Github Stats 📉  
+### <div align="center">![GitHub streak stats](https://streak-stats.demolab.com/?user=realnicoplayer)</div>  
+  
+
+<br/>  
