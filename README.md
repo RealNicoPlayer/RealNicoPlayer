@@ -4,7 +4,7 @@
 #### <div align="center">🔭 I’m a **Chaos Theory SCP:SL Plugin Developer** 🔭</div>  
   
 
-#### <div align="center">🌱 I’m currently learning **CSharp** 🌱</div>  
+#### <div align="center">🌱 I’m currently learning **CSharp** and **Lua** 🌱</div>  
   
 
 #### <div align="center">💫 **He/Him** 💫</div>  
