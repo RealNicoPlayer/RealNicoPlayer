@@ -8,8 +8,6 @@
   
 
 #### <div align="center">💫 **He/Him** 💫</div>  
-  
-### <div align="center">https://cdn.discordapp.com/attachments/1058507989134356551/1297760139105009676/CE9A0D22-AFE4-4AE0-AD30-BE37A698B183.jpg?ex=671718d0&is=6715c750&hm=e32d5cb4d9e9a0c5a8ac622c900bf85090ed4823f3578405ee2e6020a3b96b5b&</div>  
 
 <br/>  
 
