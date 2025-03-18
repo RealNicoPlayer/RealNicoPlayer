@@ -33,7 +33,7 @@
 <a href="https://discord.gg/ChaosScp" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white  />
 </a>
-<a href="https://www.youtube.com/@Real_NicoPlayer" target="_blank">
+<a href="https://www.youtube.com/@RealNicoPlayer" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
