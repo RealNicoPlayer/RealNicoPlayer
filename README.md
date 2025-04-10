@@ -14,7 +14,6 @@
 
 ## <div align="center">🛠️ My Skill Set 🛠️  
 
-### <div align="center">Frontend and Backend  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="100" /></a>  
 <a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/lua-%232C2D72.svg" alt="Lua" height="100" /></a>
